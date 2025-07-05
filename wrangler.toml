@@ -1,0 +1,8 @@
+name = "my-app"
+compatibility_date = "2023-12-01"
+
+[build]
+command = "yarn build"
+
+[env.development]
+compatibility_date = "2023-12-01"
